@@ -112,11 +112,7 @@
 <img src="git-showimages/frontimg/front-register-success.png" width="400">
 <img src="git-showimages/frontimg/front-register-fail.png" width="400">
 
-#### 🏠 前台主頁
-<img src="https://github.com/teacard/market/blob/main/showimages/market-home.jpg" width="400">
-<img src="https://github.com/teacard/market/blob/main/showimages/market-home-1.jpg" width="400">
-
-#### 📦 前台商品瀏覽
+#### 📦 前台主頁 / 商品瀏覽
 <img src="git-showimages/frontimg/front-home.png" width="400">
 <img src="git-showimages/frontimg/front-home-product.png" width="400">
 <img src="git-showimages/frontimg/front-home-success.png" width="400">
