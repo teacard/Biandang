@@ -99,7 +99,7 @@
 
 #### 🛠️ 後台訂單管理
 <img src="git-showimages/adminimg/admin-order-list.png" width="400">
-<img src="git-showimages/adminimg/admin-order-update.png" width="400">
+<img src="git-showimages/adminimg/admiin-order-update.png" width="400">
 
 ---
 
